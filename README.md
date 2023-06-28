@@ -1,34 +1,8 @@
 # gptelectron
 
-An Electron application with React and TypeScript
+A very simple app to improve access to chatGPT.
 
-## Recommended IDE Setup
+### Now it only serves two functions:
+ - Ctrl + Alt + K: Open/Hide chatGPT
+ - ESC(in chat gpt): focus to prompt input.
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ npm install
-```
-
-### Development
-
-```bash
-$ npm run dev
-```
-
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
